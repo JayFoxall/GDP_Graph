@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "d3": "^7.8.4"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "format": "npx prettier --write ."
+  }
+
+}
